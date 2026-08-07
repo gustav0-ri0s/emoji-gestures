@@ -4,7 +4,7 @@ Reconocimiento en tiempo real de gestos faciales y de mano con la webcam,
 usando MediaPipe + OpenCV y reglas geometricas sobre landmarks (sin
 entrenar ningun modelo). Al detectar un gesto, se muestra el PNG
 correspondiente superpuesto sobre el video.
-<img width="1290" height="760" alt="image" src="https://github.com/user-attachments/assets/3f46bb83-93da-4bfa-a295-3d5e433968c1" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/3f46bb83-93da-4bfa-a295-3d5e433968c1" />
 
 
 ## Gestos soportados
